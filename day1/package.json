@@ -1,0 +1,12 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "Install Node.js, MongoDB, and Express.js\r Create a basic server using Express.js",
+  "main": "fileOperation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
